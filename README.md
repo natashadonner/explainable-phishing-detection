@@ -1,4 +1,4 @@
-# D7084E_XAI_Lab4
+# Explainable Phishing Detection
 
 This project explores phishing detection with explainable AI methods. The notebook compares several model families, including a decision tree, logistic regression, random forest, semi-supervised learning, and a self-supervised feature-learning approach. The focus is on understanding which URL and website features drive the phishing prediction and how the explanations change depending on the learning setup.
 
